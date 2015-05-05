@@ -5,7 +5,7 @@
     "zabuto_calendar.css",
     "zabuto_calendar.js"
   ],
-  "version": "1.3",
+  "version": "1.2.2",
 
   "description": "jQuery plugin for Bootstrap to add a month calendar to your page.",
   "keywords": [
